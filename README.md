@@ -1,5 +1,4 @@
 # Shogun-Master Kanako
-##### (Cpts 122 - Project #9)
 
 ### __Gameplay-Demo__:
 • https://youtu.be/R7hwssS_6vs<br />
