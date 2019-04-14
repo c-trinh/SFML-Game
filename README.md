@@ -21,5 +21,5 @@ This is a final project video game created for Cpts122, a basic shooter where yo
 ### Note:
 • This project's original repo was originally worked on https://github.com/c-trinh/GameProject.Shogun-Master-Kanako.<br />
 There are a variety of reasons why I cloned the original repo to this one:<br />
-1.) The original repo was *forked* from an inactive member. In case something were to happen to the origin of the forked repo, I want to have this repo as a backup.<br />
-2.) Despite this project initially being collaborative, the entire project (excluding background graphics) was done by me. This project was my first game programmed and got me interested in video-game programming. Hence, I would like to take ownership for my own work in case I plan on revisitting this project to expand upon later.
+**1.)** The original repo was *forked* from an inactive member. In case something were to happen to the origin of the forked repo, I want to have this repo as a backup.<br />
+**2.)** Despite this project initially being collaborative, the entire project (excluding background graphics) was done by me. This project was my first game programmed and got me interested in video-game programming. Hence, I would like to take ownership for my own work in case I plan on revisitting this project to expand upon later.
