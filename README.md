@@ -2,7 +2,8 @@
 ##### (Cpts 122 - Project #9)
 
 ### __Gameplay-Demo__:
-• https://youtu.be/R7hwssS_6vs
+• https://youtu.be/R7hwssS_6vs<br />
+[![IMAGE ALT TEXT](https://i.ytimg.com/vi/R7hwssS_6vs/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDjoOPbs3rvSF5B6F11xBaLzqpqYw)](https://youtu.be/R7hwssS_6vs "Shogun-Master Kanako - Demo Gameplay")
 
 ### Coders:
 • **Cong Trinh:** All Main Code, All Classes, Title Screen, Sprites, etc.<br />
