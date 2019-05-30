@@ -1,4 +1,4 @@
-# Shogun-Master Kanako
+# Shogun-Master Kanako (SFML Game)
 
 ## __Gameplay-Demo__:
 • https://youtu.be/R7hwssS_6vs<br />
