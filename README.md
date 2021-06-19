@@ -1,6 +1,6 @@
 # Shogun-Master Kanako (SFML Game)
 
-## __Gameplay-Demo__:
+## __Gameplay Demo__:
 • https://youtu.be/R7hwssS_6vs<br />
 [![IMAGE ALT TEXT](https://i.ytimg.com/vi/R7hwssS_6vs/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDjoOPbs3rvSF5B6F11xBaLzqpqYw)](https://youtu.be/R7hwssS_6vs "Shogun-Master Kanako - Demo Gameplay")
 
