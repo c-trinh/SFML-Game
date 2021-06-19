@@ -15,8 +15,8 @@ This is a final project video game created for Cpts122, a basic shooter where yo
 
 ## Set-up:
 *This code is made with Visual Studios 2015 using SFML. To make the game work, make sure the program directories include the "include" and "lib" files of SFML file directories:* <br />
-• include directory - (Configurations -> C/C++ -> Additional Include Directories)<br />
-• lib directory - (Configurations -> Linker -> Additional Library Directories)<br />
+• include directory - (Configurations → C/C++ → Additional Include Directories)<br />
+• lib directory - (Configurations → Linker → Additional Library Directories)<br />
 
 ## Note:
 This project's original repo was originally worked on https://github.com/c-trinh/GameProject.Shogun-Master-Kanako.<br />
